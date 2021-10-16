@@ -1,0 +1,15 @@
+{
+  "name": "codeville",
+  "version": "1.0.0",
+  "description": "Procedural generated SVG town for profile readme",
+  "main": "index.js",
+  "repository": "git@github.com:suhay/codeville.git",
+  "author": "Matt Suhay <matthew.suhay@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tumult": "^3.0.14"
+  },
+  "devDependencies": {
+    "jimp": "^0.16.0"
+  }
+}
